@@ -1,3 +1,1 @@
-先运行main.py进行训练和测试，得到分类精度
-
-后运行show.py得到分类结果
+Run main.py for training and testing to get the classification accuracy
